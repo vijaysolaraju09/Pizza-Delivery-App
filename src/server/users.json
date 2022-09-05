@@ -1,0 +1,22 @@
+{
+    "userinfo": [
+        {
+            "username": "vijji",
+            "email": "vijji@gmail.com",
+            "password": "vijji",
+            "id": 1
+        },
+        {
+            "username": "vg",
+            "email": "vg@gmail.com",
+            "password": "vg",
+            "id": 2
+        },
+        {
+            "username": "vijay",
+            "email": "vijay@gmail.com",
+            "password": "vijay",
+            "id": 3
+        }
+    ]
+}

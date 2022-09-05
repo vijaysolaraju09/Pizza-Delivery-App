@@ -1,0 +1,96 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "pname": "chicken pizza",
+      "price": 280,
+      "url": "/images/pizza1.jpg"
+    },
+    {
+      "id": 2,
+      "pname": "veg pizza",
+      "price": 120,
+      "url": "/images/pizza2.jpg"
+    },
+    {
+      "id": 3,
+      "pname": "panneer pizza",
+      "price": 150,
+      "url": "/images/pizza3.jpg"
+    },
+    {
+      "id": 4,
+      "pname": "Special pizza",
+      "price": 300,
+      "url": "/images/pizza4.jpg"
+    },
+    {
+      "id": 5,
+      "pname": "Spicy pizza",
+      "price": 220,
+      "url": "/images/pizza5.jpg"
+    },
+    {
+      "id": 6,
+      "pname": "French pizza",
+      "price": 320,
+      "url": "/images/pizza6.jpg"
+    },
+    {
+      "id": 7,
+      "pname": "Dry pizza",
+      "price": 680,
+      "url": "/images/pizza7.jpg"
+    },
+    {
+      "id": 8,
+      "pname": "Hot n Spicy Pizza",
+      "price": 290,
+      "url": "/images/pizza8.jpg"
+    },
+    {
+      "id": 9,
+      "pname": "Chicken Pizza",
+      "price": 190,
+      "url": "/images/pizza9.jpg"
+    },
+    {
+      "id": 10,
+      "pname": "American Style Pizza",
+      "price": 370,
+      "url": "/images/pizza10.jpg"
+    },
+    {
+      "id": 11,
+      "pname": "Cheesy n Crispy pizza",
+      "price": 210,
+      "url": "/images/pizza11.jpg"
+    }
+  ],
+  "userinfo": [
+    {
+      "username": "vijji",
+      "email": "vijji@gmail.com",
+      "password": "vijji",
+      "id": 1
+    },
+    {
+      "username": "vg",
+      "email": "vg@gmail.com",
+      "password": "vg",
+      "id": 2
+    },
+    {
+      "username": "vijay",
+      "email": "vijay@gmail.com",
+      "password": "vijay",
+      "id": 3
+    },
+    {
+      "username": "vija",
+      "email": "vij@gmail.com",
+      "password": "vijji",
+      "id": 4
+    }
+  ]
+}
